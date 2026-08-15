@@ -1,0 +1,318 @@
+[index.html](https://github.com/user-attachments/files/31105139/index.html)
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Pudim: um clássico brasileiro apresentado de forma moderna, elegante e acolhedora.">
+  <title>Pudim — O clássico brasileiro</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <nav class="nav container">
+      <a href="#inicio" class="brand">
+        <span class="brand-mark">⌁</span>
+        pudim.com.br
+      </a>
+
+      <div class="links">
+        <a href="#historia">História</a>
+        <a href="#curiosidades">Curiosidades</a>
+        <a href="#compartilhe">Compartilhe</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="inicio">
+
+    <section class="hero container">
+
+      <div class="hero-content">
+
+        <div class="eyebrow">
+          Doce, simples e inesquecível
+        </div>
+
+        <h1>
+          O clássico que
+          <span>abraça</span>
+          a mesa.
+        </h1>
+
+        <p class="hero-description">
+          Uma releitura acolhedora do pudim:
+          a sobremesa brasileira que transforma
+          poucos ingredientes em uma memória
+          afetiva completa.
+        </p>
+
+        <div class="actions">
+          <a href="#historia" class="btn primary">
+            Conheça a história
+            <span>↓</span>
+          </a>
+
+          <a href="#curiosidades" class="btn secondary">
+            Ver curiosidades
+          </a>
+        </div>
+
+      </div>
+
+      <div class="dessert-stage">
+
+        <div class="dessert-glow"></div>
+
+        <span class="leaf one">✦</span>
+        <span class="leaf two">✧</span>
+
+        <span class="sparkle one">✦</span>
+        <span class="sparkle two">✦</span>
+
+        <div class="plate">
+          <img
+            src="/pudim.png"
+            alt="Pudim brasileiro"
+            class="pudim-img"
+          >
+        </div>
+
+      </div>
+
+    </section>
+
+    <section id="historia">
+
+      <div class="container story">
+
+        <div class="story-box">
+
+          <div class="eyebrow">
+            Uma receita que viajou
+          </div>
+
+          <h2>
+            Da Europa para
+            as cozinhas brasileiras.
+          </h2>
+
+          <p>
+            O pudim tem raízes em preparos
+            europeus à base de leite, ovos e açúcar.
+            No Brasil, ganhou identidade própria
+            com a calda de caramelo e presença
+            garantida em almoços de família.
+          </p>
+
+          <p>
+            <b>O resultado?</b>
+            Uma receita democrática,
+            feita para dividir.
+          </p>
+
+        </div>
+
+        <div>
+
+          <div class="section-head">
+            <h2>Pequena linha do tempo</h2>
+          </div>
+
+          <div class="timeline">
+
+            <div class="timeline-item">
+              <div class="year">Século XIX</div>
+
+              <div>
+                <b>Chegada e adaptação</b>
+                <br>
+                <span>
+                  Receitas europeias encontram
+                  ingredientes e costumes brasileiros.
+                </span>
+              </div>
+            </div>
+
+            <div class="timeline-item">
+              <div class="year">1950–70</div>
+
+              <div>
+                <b>A sobremesa de domingo</b>
+                <br>
+                <span>
+                  O pudim se populariza nas mesas
+                  e cadernos de receitas.
+                </span>
+              </div>
+            </div>
+
+            <div class="timeline-item">
+              <div class="year">Hoje</div>
+
+              <div>
+                <b>Tradição reinventada</b>
+                <br>
+                <span>
+                  Novos sabores aparecem, mas
+                  a calda dourada continua essencial.
+                </span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section id="curiosidades">
+
+      <div class="container">
+
+        <div class="section-head">
+
+          <h2>Você sabia?</h2>
+
+          <p>
+            Alguns detalhes deixam essa sobremesa
+            ainda mais interessante.
+          </p>
+
+        </div>
+
+        <div class="cards">
+
+          <article class="card">
+
+            <div class="icon">🍮</div>
+
+            <h3>Textura delicada</h3>
+
+            <p>
+              O banho-maria ajuda o pudim a
+              cozinhar suavemente e ficar lisinho.
+            </p>
+
+          </article>
+
+          <article class="card">
+
+            <div class="icon">✨</div>
+
+            <h3>A calda é ciência</h3>
+
+            <p>
+              O açúcar derrete e carameliza:
+              por isso ganha cor, aroma
+              e sabor intensos.
+            </p>
+
+          </article>
+
+          <article class="card">
+
+            <div class="icon">🥄</div>
+
+            <h3>Cada família tem um</h3>
+
+            <p>
+              Mais ovos, leite condensado
+              ou coco: pequenas escolhas criam
+              grandes lembranças.
+            </p>
+
+          </article>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section id="compartilhe" class="share-section container">
+
+      <div class="share">
+
+        <div class="share-content">
+
+          <h2>Espalhe essa doçura</h2>
+
+          <p>
+            Compartilhe a página com alguém
+            que nunca recusa uma fatia.
+          </p>
+
+          <div class="socials">
+
+            <button onclick="share('WhatsApp')">
+              ◉ WhatsApp
+            </button>
+
+            <button onclick="share('Instagram')">
+              ◎ Instagram
+            </button>
+
+            <button onclick="share('Facebook')">
+              f Facebook
+            </button>
+
+            <button onclick="copyLink()">
+              ↗ Copiar link
+            </button>
+
+          </div>
+
+          <small id="feedback" aria-live="polite"></small>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer class="container">
+
+    <span>
+      Feito com carinho, caramelo e CSS.
+    </span>
+
+    <span>
+      Projeto desenvolvido por
+      <strong>Lethícia Hikary</strong>
+      · 2026
+    </span>
+
+  </footer>
+
+  <script>
+    function share(rede) {
+      const feedback = document.querySelector("#feedback");
+      feedback.textContent = "Obrigado por compartilhar no " + rede + "!";
+    }
+
+    function copyLink() {
+      const feedback = document.querySelector("#feedback");
+
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(window.location.href);
+        feedback.textContent = "Link copiado para a área de transferência!";
+      } else {
+        feedback.textContent = "Copie o endereço desta página para compartilhar.";
+      }
+    }
+  </script>
+
+</body>
+</html>
